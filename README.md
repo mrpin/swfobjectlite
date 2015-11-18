@@ -1,5 +1,8 @@
 # swfobjectlite
-Lite version of swfobject.
+Lite version of swfobject. 
+I created this lib because had issues with FF "permission denied to call ToString" and "bad npobject as private data".
+This version compatible with swfobject 2.2.
+
 Tested on 
 -FF 42
 -Chrome 46
